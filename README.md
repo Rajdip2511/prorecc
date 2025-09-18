@@ -1,5 +1,7 @@
 # ProRecc - AI Product Recommendations
 
+prorec live link : https://v0-prorecc.vercel.app/
+
 A modern React + Vite web application that provides personalized product recommendations using Google's Gemini AI. Built with TypeScript, Tailwind CSS, and shadcn/ui components.
 
 ## ✨ Features
